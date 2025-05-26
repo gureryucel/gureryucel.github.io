@@ -14,6 +14,8 @@ Education
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 * M.S. in Jekyll, GitHub University, 2014
 * B.Sc. in Civil Engineering, GitHub University, 2012
+* 
+![Aalto Logo](/files/aalto_logo.png){: style="float: left; margin-right: 1em; width: 80px;" }
 
 ### 🎓 Master of Science in Computer Science
 **University of Helsinki**, Helsinki, Finland  
