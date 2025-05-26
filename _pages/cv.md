@@ -9,21 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
+#[Download updated CV here!]()
+
 Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.Sc. in Civil Engineering, GitHub University, 2012
-* 
-![Aalto Logo](/files/aalto_logo.png){: style="float: left; margin-right: 1em; width: 80px;" }
+------
 
-### 🎓 Master of Science in Computer Science
-**University of Helsinki**, Helsinki, Finland  
-*2019 – 2021*
+### 🎓 Master of Science in Chemical, Biochemical, and Materials Engineering
+**Aalto University**, Espoo, Finland  
+*2023 – 2025*
 
-- Specialized in Machine Learning and Artificial Intelligence
-- Thesis: *"Deep Learning Approaches for Natural Language Processing"*
-- Graduated with distinction
+- **Major:** Fibre and Polymer Engineering
+- Thesis: *"Molecular dynamics simulations of water interactions in azobenzene containing poly(4-vinylpyridine) polymer matrix."*
+- **GPA:** 4.59/5.0
 
 ---
 
