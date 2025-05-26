@@ -22,10 +22,10 @@ main:
   #   url: /teaching/    
     
   - title: "Projects"
-    url: /portfolio/
+    url: /projects/
         
-  # - title: "Blog Posts"
-  #   url: /year-archive/
+  - title: "Courses"
+    url: /courses/
   
     
   # - title: "CV"
