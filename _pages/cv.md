@@ -13,7 +13,25 @@ Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 * M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.Sc. in Civil Engineering, GitHub University, 2012
+
+### 🎓 Master of Science in Computer Science
+**University of Helsinki**, Helsinki, Finland  
+*2019 – 2021*
+
+- Specialized in Machine Learning and Artificial Intelligence
+- Thesis: *"Deep Learning Approaches for Natural Language Processing"*
+- Graduated with distinction
+
+---
+
+### 🎓 Bachelor of Science in Information Technology
+**Aalto University**, Espoo, Finland  
+*2015 – 2019*
+
+- Focused on Software Engineering and Data Structures
+- Capstone Project: *"Developing Scalable Web Applications"*
+- Active member of the Computer Science Club
 
 Work experience
 ======
