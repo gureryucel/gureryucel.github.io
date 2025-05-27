@@ -14,7 +14,7 @@ The polymer modeling project aims to examine the behavior of PS and PEO in polar
 ### Chemical Structures
 Please refer to the figure below for the chemical structures of the polymers:
 
-![PS (left)[4], PEO (middle)[5], and PS-b-PEO (right)[6] polymers.](/assets/images/chemical-structures.png)
+<img src="/assets/images/chemical-structures.png" alt="Chemical structures of PS, PEO, PS-b-PEO" style="width: 40%; display: block; margin: 0 auto;" />
 
 
 ### Research Question 1
@@ -25,8 +25,8 @@ Please refer to the figure below for the chemical structures of the polymers:
 <div style="text-align: center;">
   <img src="/assets/images/q1-vis.png" alt="Visualization of polymer behavior in water" style="width: 100%; max-width: 800px; margin-bottom: 20px;"/>
   <div style="display: flex; justify-content: center; gap: 20px;">
-    <img src="/assets/images/q1-sasa.png" alt="SASA analysis in water" style="width: 48%;"/>
-    <img src="/assets/images/q1-density.png" alt="Density profile in water" style="width: 48%;"/>
+    <img src="/assets/images/q1-sasa.png" alt="SASA analysis in water" style="width: 30%;"/>
+    <img src="/assets/images/q1-density.png" alt="Density profile in water" style="width: 30%;"/>
   </div>
 </div>
   
