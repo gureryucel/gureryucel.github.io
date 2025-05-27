@@ -14,7 +14,7 @@ redirect_from:
 Education
 ------
 
-### 🎓 Master of Science in Chemical, Biochemical, and Materials Engineering
+### 🎓 Master of Science (Tech.) in Chemical, Biochemical, and Materials Engineering
 **Aalto University**, Espoo, Finland  
 *2023 – 2025*
 
@@ -24,13 +24,25 @@ Education
 
 ---
 
-### 🎓 Bachelor of Science in Information Technology
-**Aalto University**, Espoo, Finland  
-*2015 – 2019*
+### 🎓 Bachelor of Science in Mechanical Engineering
+**Boğaziçi University**, İstanbul, Türkiye  
+*2019 – 2023*
 
-- Focused on Software Engineering and Data Structures
-- Capstone Project: *"Developing Scalable Web Applications"*
-- Active member of the Computer Science Club
+- Double Major Program
+- **Track:** Fibre and Polymer Engineering
+- **GPA:** 3.59/4.0
+
+---
+
+### 🎓 Bachelor of Science in Civil Engineering
+**Boğaziçi University**, İstanbul, Türkiye  
+*2018 – 2023*
+
+- 3rd in the department
+- Thesis: *"Modeling of textile reinforced composites (TRC) and their applications on thin curved structures."*
+- **GPA:** 3.59/4.0
+
+---
 
 Work experience
 ======
