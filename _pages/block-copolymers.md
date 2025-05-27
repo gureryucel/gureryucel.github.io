@@ -6,8 +6,10 @@ permalink: /projects/block-copolymers/
 
 ## Behavior of Block-Co-Polymers in Different Solvents
 
-### Abstract
-The polymer modeling project aims to examine the behavior of PS and PEO in polar solvents and examine the assembly response of PS-block-PEO block copolymers in water, octane, and mixtures with varying ratio of water and octane as solvent. The molecular dynamics simulation runs and analysis were performed with specific software (Gromacs and VMD). The first task was performed with ready commands and files while a research setup including molecule numbers were created for second part. The analyses include the visualization of production runs as well as several data analyses including SASA, and density profile. The results show the PEO has more interaction (even/homogenous distribution) than PS and PS-PEO copolymers. The micelle and layer formation between the octane and water parts in solution were also observed. Mainly, the expected result for behavior of PS, PEO, and PS-PEO copolymers in octane and water solvents were achieved.
+### Summary of objective and methods
+- Coarse-grained MD simulations of PS, PEO, and PS-b-PEO.
+- Behavior of the polymers in different solvents as water, octane, and water/octane mixtures.
+- Polymer configurations and micelle formation are the main focus.
 
 **Tools Used:** GROMACS, MATLAB, OriginPro
 
@@ -30,5 +32,9 @@ Please refer to the figure below for the chemical structures of the polymers:
   </div>
 </div>
   
+### Research Question 1
+**What is the assembly response of PS-block-PEO block copolymers in water, octane, and mixtures with varying ratios of water and octane as solvents?**
+
+<img src="/assets/images/q2-result.png" alt="Result of Question 2" style="width: 50%; display: block; margin: 0 auto;" />
 
 ---
