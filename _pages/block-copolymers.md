@@ -34,7 +34,7 @@ Please refer to the figure below for the chemical structures of the polymers:
   </div>
 </div>
   
-### Research Question 1
+### Research Question 2
 **What is the assembly response of PS-block-PEO block copolymers in water, octane, and mixtures with varying ratios of water and octane as solvents?**
 
 - Micelle formation is observed with increasing octane/water ratio.
