@@ -1,9 +1,10 @@
 ---
 layout: page
 title: Transcript of Records
+author_profile: true
 permalink: /courses/
 ---
-{% include base_path %}
+
 ## Transcript of Records
 
 # Graduate Courses
