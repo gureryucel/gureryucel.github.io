@@ -44,79 +44,67 @@ Below is a table summarizing the completed courses during the undergraduate stud
 
 ---
 
-### Spring 2023
-
-| Course Code | Course Name         | Grade | Semester     |
-|-------------|----------------------|--------|---------------|
-| ME 362      | HEAT TRANSFER        | AA     | Spring 2023   |
-| ME 400      | ENGINEERING INTERNSHIP | P    | Spring 2023   |
-|-------------|------------------------------------------------|--------|-------------|
-| CE 400      | ENGINEERING INTERNSHIP                         | P      | Fall 2022   |
-| CE 481      | SP.STUD.FIBER REINFORCED CEMENT BASED COMP.MATERIALS | AA | Fall 2022 |
-| CE 492      | PROJECT                                         | AA     | Fall 2022   |
-| CE 544      | ADVANCED MATERIAL SCIENCE                      | BA     | Fall 2022   |
-| ME 424      | MACHINE DESIGN II                              | CB     | Fall 2022   |
-| ME 426      | MECHANISMS                                     | CB     | Fall 2022   |
-| ME 446      | APPLIED SOLID MECHANICS                        | BB     | Fall 2022   |
-|-------------|--------------------------------------------------|--------|---------------|
-| CE 322      | ENVIRONMENTAL ENGINEERING                       | AA     | Spring 2022   |
-| CE 336      | FOUNDATION ENGINEERING                          | AA     | Spring 2022   |
-| CE 402      | CIVIL ENGINEERING SYSTEMS ANALYSIS             | BB     | Spring 2022   |
-| CE 487      | SP.TP.COMPOSITE MATERIALS                      | AA     | Spring 2022   |
-| ME 318      | MANUFACTURING TECHNIQUES                       | AA     | Spring 2022   |
-|-------------|--------------------------------------------------|--------|-------------|
-| CE 401      | CONSTRUCTION ENGINEERING & MANAGEMENT           | BA     | Fall 2021   |
-| CE 461      | TRANSPORTATION SYSTEMS ENGINEERING              | BA     | Fall 2021   |
-| CE 495      | INTRO TO BUILDING INFORMATION MODELING          | AA     | Fall 2021   |
-| CE 559      | STRUCTURAL DYNAMICS                             | AA     | Fall 2021   |
-| ME 411      | MATERIALS ENGINEERING                           | AA     | Fall 2021   |
-| ME 429      | MECHANICAL & THERMAL DESIGN                     | BB     | Fall 2021   |
-|-------------|--------------------------------------------------|--------|---------------|
-| CE 354      | REINFORCED CONCRETE I                           | AA     | Spring 2021   |
-| CE 356      | STEEL STRUCTURES                                | BA     | Spring 2021   |
-| HIST106     | THE MAKING OF THE MODERN WORLD II              | AA     | Spring 2021   |
-| HTR 312     | HISTORY OF THE TURKISH REPUBLIC II             | AA     | Spring 2021   |
-| ME 303      | COMPUTER APPLICATIONS IN MECHANICAL ENG        | AA     | Spring 2021   |
-| ME 304      | EXPERIMENTAL ENGINEERING                        | AA     | Spring 2021   |
-| ME 324      | MACHINE DESIGN I                                | P      | Spring 2021   |
-| ME 335      | MODELING & CONTROL OF DYNAMIC SYSTEMS          | BB     | Spring 2021   |
-|-------------|-------------------------------------------------|--------|-------------|
-| CE 303      | PROBABILITY AND STATISTICS FOR CIVIL ENG       | AA     | Fall 2020   |
-| CE 315      | HYDRAULIC ENGINEERING I                        | AA     | Fall 2020   |
-| CE 335      | SOIL MECHANICS                                 | BA     | Fall 2020   |
-| CE 355      | STRUCTURAL ANALYSIS                            | AA     | Fall 2020   |
-| HIST105     | THE MAKING OF THE MODERN WORLD I              | AA     | Fall 2020   |
-| HTR 311     | HISTORY OF THE TURKISH REPUBLIC I             | AA     | Fall 2020   |
-| ME 331      | MECHATRONICS                                   | BB     | Fall 2020   |
-|-------------|-----------------------------------|--------|---------------|
-| CE 212      | ENGINEERING MATERIALS            | AA     | Spring 2020   |
-| CE 214      | FLUID MECHANICS                  | AA     | Spring 2020   |
-| CE 244      | DYNAMICS                         | BA     | Spring 2020   |
-| CE 246      | STRENGTH OF MATERIALS            | P      | Spring 2020   |
-| MATH202     | DIFFERENTIAL EQUATIONS           | P      | Spring 2020   |
-| ME 263      | THERMODYNAMICS I                 | AA     | Spring 2020   |
-| TK 222      | TURKISH FOR NATIVE SPEAKERS II   | P      | Spring 2020   |
-|-------------|--------------------------------------|--------|-------------|
-| CE 211      | MATERIALS SCIENCE                   | AA     | Fall 2019   |
-| CE 231      | EARTH SCIENCES                      | AA     | Fall 2019   |
-| CE 243      | STATICS                             | BB     | Fall 2019   |
-| EE 210      | INTRODUCTION TO ELECTRICAL ENG      | BB     | Fall 2019   |
-| MATH201     | MATRIX THEORY                       | CB     | Fall 2019   |
-| PHYS201     | PHYSICS III                         | AA     | Fall 2019   |
-| TK 221      | TURKISH FOR NATIVE SPEAKERS I       | AA     | Fall 2019   |
-|-------------|--------------------|--------|--------------|
-| MATH102     | CALCULUS II        | AA     | Summer 2019  |
-|-------------|----------------------------------------------------------------|--------|---------------|
-| CHEM105     | FUNDAMENTALS OF CHEMISTRY                                     | AA     | Spring 2019   |
-| EC 102      | PRINCIPLES OF MACROECONOMICS                                  | BA     | Spring 2019   |
-| ENGG110     | ENGINEERING GRAPHICS                                          | AA     | Spring 2019   |
-| PHYS130     | THERMODYN., WAVES, OPTICS & MODERN PHYS.                      | AA     | Spring 2019   |
-|-------------|-----------------------------------|--------|-------------|
-| CE 101      | INTRODUCTION TO CIVIL ENGINEERING | AA     | Fall 2018   |
-| CMPE150     | INTRODUCTION TO COMPUTING         | BB     | Fall 2018   |
-| EC 101      | PRINCIPLES OF MICROECONOMICS      | CC     | Fall 2018   |
-| MATH101     | CALCULUS I                        | CB     | Fall 2018   |
-| PHYS101     | PHYSICS I                         | CB     | Fall 2018   |
+| Course Code | Course Name              | Grade | Semester     |
+|-------------|---------------------------|--------|---------------|
+| ME 362      | Heat Transfer             | AA     | Spring 2023   |
+| ME 400      | Engineering Internship    | P      | Spring 2023   |
+| CE 400      | Engineering Internship                                 | P      | Fall 2022   |
+| CE 481      | Special Studies: Fiber Reinforced Cement Based Composites | AA  | Fall 2022   |
+| CE 492      | Project                                                | AA     | Fall 2022   |
+| CE 544      | Advanced Material Science                              | BA     | Fall 2022   |
+| ME 424      | Machine Design II                                      | CB     | Fall 2022   |
+| ME 426      | Mechanisms                                             | CB     | Fall 2022   |
+| ME 446      | Applied Solid Mechanics                                | BB     | Fall 2022   |
+| CE 322      | Environmental Engineering                  | AA     | Spring 2022   |
+| CE 336      | Foundation Engineering                     | AA     | Spring 2022   |
+| CE 402      | Civil Engineering Systems Analysis         | BB     | Spring 2022   |
+| CE 487      | Special Topics: Composite Materials        | AA     | Spring 2022   |
+| ME 318      | Manufacturing Techniques                   | AA     | Spring 2022   |
+| CE 401      | Construction Engineering & Management               | BA     | Fall 2021   |
+| CE 461      | Transportation Systems Engineering                  | BA     | Fall 2021   |
+| CE 495      | Special Topics: Introduction to Building Information Modeling | AA | Fall 2021 |
+| CE 559      | Structural Dynamics                                  | AA     | Fall 2021   |
+| ME 411      | Materials Engineering                                | AA     | Fall 2021   |
+| ME 429      | Mechanical & Thermal Design                          | BB     | Fall 2021   |
+| CE 354      | Reinforced Concrete I                        | AA     | Spring 2021   |
+| CE 356      | Steel Structures                             | BA     | Spring 2021   |
+| HIST106     | The Making of the Modern World II            | AA     | Spring 2021   |
+| HTR 312     | History of the Turkish Republic II           | AA     | Spring 2021   |
+| ME 303      | Computer Applications in Mechanical Engineering | AA  | Spring 2021   |
+| ME 304      | Experimental Engineering                     | AA     | Spring 2021   |
+| ME 324      | Machine Design I                             | P      | Spring 2021   |
+| ME 335      | Modeling & Control of Dynamic Systems        | BB     | Spring 2021   |
+| CE 303      | Probability and Statistics for Civil Engineering       | AA     | Fall 2020   |
+| CE 315      | Hydraulic Engineering I                                | AA     | Fall 2020   |
+| CE 335      | Soil Mechanics                                          | BA     | Fall 2020   |
+| CE 355      | Structural Analysis                                     | AA     | Fall 2020   |
+| HIST105     | The Making of the Modern World I                       | AA     | Fall 2020   |
+| HTR 311     | History of the Turkish Republic I                      | AA     | Fall 2020   |
+| ME 331      | Mechatronics                                            | BB     | Fall 2020   |
+| CE 212      | Engineering Materials           | AA     | Spring 2020   |
+| CE 214      | Fluid Mechanics                 | AA     | Spring 2020   |
+| CE 244      | Dynamics                        | BA     | Spring 2020   |
+| CE 246      | Strength of Materials           | P      | Spring 2020   |
+| MATH202     | Differential Equations          | P      | Spring 2020   |
+| ME 263      | Thermodynamics I                | AA     | Spring 2020   |
+| TK 222      | Turkish for Native Speakers II  | P      | Spring 2020   |
+| CE 211      | Materials Science                    | AA     | Fall 2019   |
+| CE 231      | Earth Sciences                       | AA     | Fall 2019   |
+| CE 243      | Statics                              | BB     | Fall 2019   |
+| EE 210      | Introduction to Electrical Engineering| BB     | Fall 2019   |
+| MATH201     | Matrix Theory                        | CB     | Fall 2019   |
+| PHYS201     | Physics III                          | AA     | Fall 2019   |
+| TK 221      | Turkish for Native Speakers I        | AA     | Fall 2019   |
+| MATH102     | Calculus II     | AA     | Summer 2019   |
+| CHEM105     | Fundamentals of Chemistry                               | AA     | Spring 2019 |
+| EC 102      | Principles of Macroeconomics                            | BA     | Spring 2019 |
+| ENGG110     | Engineering Graphics                                    | AA     | Spring 2019 |
+| PHYS130     | Thermodynamics, Waves, Optics & Modern Physics          | AA     | Spring 2019 |
+| CE 101      | Introduction to Civil Engineering | AA  | Fall 2018   |
+| CMPE150     | Introduction to Computing         | BB  | Fall 2018   |
+| EC 101      | Principles of Microeconomics      | CC  | Fall 2018   |
+| MATH101     | Calculus I                        | CB  | Fall 2018   |
+| PHYS101     | Physics I                         | CB  | Fall 2018   |
 
 
 
