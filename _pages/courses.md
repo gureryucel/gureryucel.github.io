@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: archive
 title: Transcript of Records
 author_profile: true
 permalink: /courses/
