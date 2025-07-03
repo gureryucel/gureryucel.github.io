@@ -10,6 +10,7 @@ permalink: /courses/
 
 ### Master's Degree
 **Major:** Fibre and Polymer Engineering
+
 **Minor:** Strength Analysis of Advanced Structures
 
 Below is a table summarizing the completed courses during the graduate studies at Aalto University.
