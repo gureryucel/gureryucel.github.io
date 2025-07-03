@@ -13,6 +13,10 @@ permalink: /courses/
 
 **Minor:** Strength Analysis of Advanced Structures
 
+**Cumulative GPA:** 4.43/5.0
+
+**Total Credits:** 115 ECTS
+
 Below is a table summarizing the completed courses during the graduate studies at Aalto University.
 
 ---
@@ -40,13 +44,17 @@ Below is a table summarizing the completed courses during the graduate studies a
 |  CHEM-E2120      | Fibres and Fibre Products                               |  4      |  Fall 23     |
 |  CHEM-E2100      | Polymer Synthesis                                       |  5      |  Fall 23     |
 |  CHEM-E0140      | Laboratory Safety Course                                |  Pass   |  Fall 23     |
-|**GPA - Total Credits** | 4.43/5.0 - 115 ECTS |
+
 
 
 ## Bachelor's Courses
 
 ### Bachelor's Degree
 **Double Major:** Civil Engineering and Mechanical Engineering
+
+**Cumulative GPA:** 3.59/5.0
+
+**Total Credits:** 343 ECTS
 
 Below is a table summarizing the completed courses during the undergraduate studies at Boğaziçi University.
 
@@ -113,7 +121,7 @@ Below is a table summarizing the completed courses during the undergraduate stud
 | EC 101      | Principles of Microeconomics      | CC  | Fall 18   |
 | MATH101     | Calculus I                        | CB  | Fall 18   |
 | PHYS101     | Physics I                         | CB  | Fall 18   |
-|**GPA - Total Credits** | 3.59/4.0 - 343 ECTS |
+
 
 
 
