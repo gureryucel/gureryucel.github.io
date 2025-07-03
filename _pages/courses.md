@@ -1,13 +1,12 @@
 ---
 layout: archive
-title: Transcript of Records
+title: Courses/Transcript of Records
 author_profile: true
 permalink: /courses/
 ---
 
-## Transcript of Records
 
-# Graduate Courses
+## Graduate Courses
 
 Below is a table summarizing the completed courses during the graduate studies at Aalto University.
 
