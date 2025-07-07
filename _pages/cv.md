@@ -11,7 +11,7 @@ redirect_from:
 
 #[Download updated CV here!]()
 
-Education
+## Education
 ------
 
 ### 🎓 Master of Science (Tech.) in Chemical, Biochemical, and Materials Engineering
@@ -19,8 +19,9 @@ Education
 *2023 – 2025*
 
 - **Major:** Fibre and Polymer Engineering
+- **Minor:** Strength Analysis of Advanced Structures
 - Thesis: *"Molecular dynamics simulations of water interactions in azobenzene containing poly(4-vinylpyridine) polymer matrix."*
-- **GPA:** 4.59/5.0
+- **GPA:** 4.43/5.0
 
 ---
 
@@ -44,22 +45,42 @@ Education
 
 ---
 
-Work experience
+## Research Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+### Master's Thesis Worker - Research Assistant
+* Sep 2024 - May 2025: **Soft Materials Modeling (SMM) research group, Aalto University**, Espoo, Finland
+  * Molecular Dynamics simulations on water interactions of photoactive humidity sensing material.
+  * Duties included: Simulation setup, data analysis, academic writing, and academic presentation
+  * Supervisor: Prof. Maria Sammalkorpi, Advisor: Dr. Dmitry Tolmachev 
+  
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+### Undergraduate Research Assistant
+* July 2020 - July 2023: **Sustainable Construction Materials Laboratory, Boğaziçi University**, İstanbul, Türkiye
+  * Experimental and computational (FEA) analysis on cement based composite materials 
+  * Duties included: Stress analysis, Specimen production, Mechanical (flexural) testing, and academic writing
+  * Supervisors: Prof. Nilüfer Özyurt Zihnioğlu, and Asst. Prof. Esat Selim Kocaman 
+ 
+  ---
+
+## Work Experience
+======
+### 🖥️📐⚙️ Structural Analysis Engineer
+* Sept 2022 - Sept 2023: **Şişecam**, İstanbul, Türkiye
+  * Şişecam Glass Packaging Design Team
+  * Duties included: Stress analysis, failure investigations, data analysis, and design recommendations 
+  
+Mechanical Engineering (Production) Intern
+### 📐⚙️ Mechanical Engineering (Production) Intern
+* Sept 2022 - Sept 2023: **Şişecam**, İstanbul, Türkiye
+  * Şişecam Glass Packaging Design Team
+  * Duties included: Stress analysis, failure investigations, data analysis, and design recommendations 
 
 * Summer 2015: Research Assistant
   * GitHub University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
+
+---
   
 Skills
 ======
