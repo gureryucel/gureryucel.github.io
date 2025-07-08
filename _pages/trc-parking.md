@@ -4,15 +4,15 @@ title: Design of Textile Reinforced Concrete Parking Station
 permalink: /projects/trc-parking/
 ---
 
-## Design of Textile Reinforced Concrete Parking Station
+# Design of Textile Reinforced Concrete Parking Station
 
-### Project Aims and Motivation
+## Project Aims and Motivation
 
 - Developing a novel designed high-performance textile reinforced concrete (TRC) material
 - Comparing flexural behavior with conventional TRC designs
 - Designing a concrete parking station consisting of TRC materials, targeting building applications and promoting sustainability
 
-### Specimen Production
+## Specimen Production
 
 **Concrete Matrix Materials:**
 - Portland cement (CEM I 42.5 R)
@@ -64,7 +64,7 @@ permalink: /projects/trc-parking/
   <p><em>Produced TRC specimens with different reinforcement configurations</em></p>
 </div>
 
-### Test Setup
+## Test Setup
 
 - Three-point bending tests were performed using an MTS closed-loop servo-hydraulic testing machine.
 - Specimen dimensions:  
@@ -74,11 +74,11 @@ permalink: /projects/trc-parking/
   - Span length: 27 cm
 - Testing was displacement-controlled at a rate of **2 mm/min**.
 
-### Test Results
+## Test Results
 
 The flexural performance of various textile reinforcement configurations was evaluated based on their stress–strain responses. The graph and mechanical properties are presented below.
 
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+<div style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
 
   <div style="flex: 0 0 450px;">
     <img src="/assets/images/result-curves.png" alt="Stress–strain curves" style="width: 100%; height: auto;">
@@ -108,7 +108,7 @@ The flexural performance of various textile reinforcement configurations was eva
 
 
 
-### Discussion
+## Discussion
 
 - The **0/90° grid configuration** exhibited clear multi-stage behavior:
   - Initial elastic region up to the first peak stress.
@@ -143,7 +143,7 @@ The flexural performance of various textile reinforcement configurations was eva
 ---
 
 
-### Design of Concrete Parking Station
+## Design of Concrete Parking Station
 
 - Structural design included multiple load cases representing a small car
 - A parking station was designed using the novel inclined TRC material
