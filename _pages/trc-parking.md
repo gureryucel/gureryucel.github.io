@@ -81,7 +81,7 @@ The flexural performance of various textile reinforcement configurations was eva
 <div style="display: flex; justify-content: space-between; gap: 20px; flex-wrap: wrap;">
 
   <div style="flex: 1; min-width: 300px;">
-    <img src="/assets/images/result-curves.png" alt="Stress–strain curves" style="width: 100%;">
+    <img src="/assets/images/result-curves.png" alt="Stress–strain curves" style="width: 50%;">
     <p style="text-align: center;"><em>Stress–strain curves of textile-reinforced specimens under three-point bending</em></p>
   </div>
 
