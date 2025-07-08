@@ -78,20 +78,20 @@ permalink: /projects/trc-parking/
 
 The flexural performance of various textile reinforcement configurations was evaluated based on their stress–strain responses. The graph and mechanical properties are presented below.
 
-<div style="display: flex; justify-content: space-between; gap: 20px; flex-wrap: wrap;">
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
-  <div style="flex: 1; min-width: 150px;">
-    <img src="/assets/images/result-curves.png" alt="Stress–strain curves" style="width: 100%;">
+  <div style="flex: 0 0 300px;">
+    <img src="/assets/images/result-curves.png" alt="Stress–strain curves" style="width: 100%; height: auto;">
     <p style="text-align: center;"><em>Stress–strain curves of textile-reinforced specimens under three-point bending</em></p>
   </div>
 
-  <div style="flex: 0 0 250px;">
+  <div style="flex: 0 0 300px;">
     <table>
       <thead>
         <tr>
-          <th>Specimen</th>
-          <th>Ultimate<br>Stress (MPa)</th>
-          <th>Hardening<br>Modulus (MPa)</th>
+          <th><strong>Specimen</strong></th>
+          <th><strong>Ultimate Stress<br>(MPa)</strong></th>
+          <th><strong>Hardening Modulus<br>(MPa)</strong></th>
         </tr>
       </thead>
       <tbody>
@@ -105,6 +105,7 @@ The flexural performance of various textile reinforcement configurations was eva
   </div>
 
 </div>
+
 
 
 ### Discussion
