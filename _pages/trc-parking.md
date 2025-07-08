@@ -78,18 +78,34 @@ permalink: /projects/trc-parking/
 
 The flexural performance of various textile reinforcement configurations was evaluated based on their stress–strain responses. The graph and mechanical properties are presented below.
 
-<div style="text-align: center;">
-  <img src="/assets/images/result-curves.png" alt="Stress–strain curves" style="width: 100%; max-width: 600px;">
-  <p><em>Stress–strain curves of textile-reinforced specimens under three-point bending</em></p>
+<div style="display: flex; justify-content: space-between; gap: 20px; flex-wrap: wrap;">
+
+  <div style="flex: 1; min-width: 300px;">
+    <img src="/assets/images/result-curves.png" alt="Stress–strain curves" style="width: 100%;">
+    <p style="text-align: center;"><em>Stress–strain curves of textile-reinforced specimens under three-point bending</em></p>
+  </div>
+
+  <div style="flex: 0 0 250px;">
+    <table>
+      <thead>
+        <tr>
+          <th>Specimen</th>
+          <th>Ultimate<br>Stress (MPa)</th>
+          <th>Hardening<br>Modulus (MPa)</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><td>Plain</td><td>6.1</td><td>—</td></tr>
+        <tr><td>0/90</td><td>13.7</td><td>402</td></tr>
+        <tr><td>30/-60</td><td>5.1</td><td>—</td></tr>
+        <tr><td>45/-45</td><td>5.9</td><td>—</td></tr>
+        <tr><td>TT-X</td><td>16.1</td><td>548</td></tr>
+      </tbody>
+    </table>
+  </div>
+
 </div>
 
-| Specimen   | Ultimate Stress (MPa) | Hardening Modulus (MPa) |
-|------------|------------------------|--------------------------|
-| Plain      | 6.1                    | —                        |
-| 0/90       | 13.7                   | 402                      |
-| 30/-60     | 5.1                    | —                        |
-| 45/-45     | 5.9                    | —                        |
-| TT-X       | 16.1                   | 548                      |
 
 ### Discussion
 
