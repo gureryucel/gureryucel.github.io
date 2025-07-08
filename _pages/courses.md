@@ -63,8 +63,8 @@ Below is a table summarizing the completed courses during the undergraduate stud
 | Course Code | Course Name              | Grade | Semester     |
 |-------------|---------------------------|--------|---------------|
 | ME 362      | Heat Transfer             | AA     | Spring 23   |
-| ME 400      | Engineering Internship    | P      | Spring 23   |
-| CE 400      | Engineering Internship                                 | P      | Fall 22   |
+| ME 400      | Engineering Internship    | P (30 days)      | Spring 23   |
+| CE 400      | Engineering Internship                                 | P (60 days)      | Fall 22   |
 | CE 481      | Special Studies: Fiber Reinforced Cement Based Composites | AA  | Fall 22   |
 | CE 492      | Project                                                | AA     | Fall 22   |
 | CE 544      | Advanced Material Science                              | BA     | Fall 22   |
