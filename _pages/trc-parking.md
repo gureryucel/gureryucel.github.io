@@ -29,11 +29,12 @@ permalink: /projects/trc-parking/
 - Thickness: 3 mm
 
 **Mix Design & Testing:**
+- Flow tests were performed according to ASTM C230/C230M–21 for having correct workability for the placement of reinforcements
 - Mix proportions (by weight):  
   - Water/Cement: 0.45  
   - Sand/Cement: 1.5  
   - Plasticizer/Cement: 0.4%  
-- Flow tests performed according to ASTM C230/C230M–21 for workability to ensure correct placement of reinforcements
+
 
 **Reinforcement Alignments:**
 - Specimens were designed with different fiber orientations:  
@@ -52,22 +53,78 @@ permalink: /projects/trc-parking/
   </div>
   <div style="flex: 1; text-align: center;">
     <img src="/assets/images/ttx.png" alt="Inclined Reinforcement Specimen" style="width: 100%; max-width: 250px;">
-    <p><em>Inclined Reinforcement Specimen (Novel Design)</em></p>
+    <p><em>Inclined Reinforcement Specimen TT-X (Novel Design)</em></p>
   </div>
 </div>
 
 <br>
 
 <div style="text-align: center;">
-  <img src="/assets/images/specimens.jpg" alt="Produced Specimens" style="width: 100%; max-width: 600px;">
+  <img src="/assets/images/specimens.jpg" alt="Produced Specimens" style="width: 100%; max-width: 400px;">
   <p><em>Produced TRC specimens with different reinforcement configurations</em></p>
 </div>
 
+### Test Setup
+
+- Three-point bending tests were performed using an MTS closed-loop servo-hydraulic testing machine.
+- Specimen dimensions:  
+  - Length: 35 cm  
+  - Width: 10 cm  
+  - Thickness: 2 cm  
+  - Span length: 27 cm
+- Testing was displacement-controlled at a rate of **2 mm/min**.
+
 ### Test Results
 
-- Flexural testing was conducted on all specimens
-- The inclined reinforcement design showed improved load-carrying behavior compared to conventional TRC designs
-- Load–deflection curves were analyzed using MATLAB
+The flexural performance of various textile reinforcement configurations was evaluated based on their stress–strain responses. The graph and mechanical properties are presented below.
+
+<div style="text-align: center;">
+  <img src="/assets/images/result-curves.png" alt="Stress–strain curves" style="width: 100%; max-width: 600px;">
+  <p><em>Stress–strain curves of textile-reinforced specimens under three-point bending</em></p>
+</div>
+
+| Specimen   | Ultimate Stress (MPa) | Hardening Modulus (MPa) |
+|------------|------------------------|--------------------------|
+| Plain      | 6.1                    | —                        |
+| 0/90       | 13.7                   | 402                      |
+| 30/-60     | 5.1                    | —                        |
+| 45/-45     | 5.9                    | —                        |
+| TT-X       | 16.1                   | 548                      |
+
+### Discussion
+
+- The **0/90° grid configuration** exhibited clear multi-stage behavior:
+  - Initial elastic region up to the first peak stress.
+  - A subsequent hardening region leading to ultimate failure.
+- Following the ultimate stress, specimens experienced a **sharp stress drop**, indicative of multiple crack propagations.
+- **Off-axis grid reinforcements** (30° and 45°):
+  - Showed no significant hardening behavior.
+  - Exhibited behavior akin to **ideal plasticity** after the elastic limit.
+- These off-axis configurations had **higher ultimate strains**, attributed to:
+  - Textile pull-out.
+  - Fabric rotation/scissoring effect.
+- A **critical threshold angle** appears to exist above which material hardening is significantly reduced.
+- Only textile alignments **near the flexural direction** showed progressive material hardening, with no gradual transition observed between grid angles.
+
+
+- The **TT-X configuration**—which includes **through-thickness 45°-inclined reinforcements**—demonstrated **superior mechanical behavior** over the standard 0° grid:
+  - A **17% increase in ultimate stress**.
+  - A **35% improvement in tangent modulus** of the hardening region.
+- These **out-of-plane reinforcements** enhanced shear resistance and crack control:
+  - Delayed the formation and merging of cracks.
+  - Bridged potential shear cracks by aligning perpendicular to likely crack planes.
+- The cumulative effects led to:
+  - **Enhanced post-crack hardening**.
+  - **Improved toughness** and structural reliability of the cement-based composite.
+- These benefits are expected to be even **more pronounced in thicker specimens with shorter span lengths**, where shear effects are dominant.
+
+---
+
+**Tools Used:** Composite production · Flexural testing · ANSYS Mechanical · SpaceClaim · MATLAB
+
+
+---
+
 
 ### Design of Concrete Parking Station
 
