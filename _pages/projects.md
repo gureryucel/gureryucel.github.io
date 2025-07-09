@@ -52,6 +52,13 @@ permalink: /projects/
     </div>
   </a>
 
+  <a href="/projects/euroleague-analysis" class="project-card">
+    <img src="/assets/images/euroleague.jpg" alt="Euroleague Analysis">
+    <div class="project-content">
+      <div class="project-title">Data Analysis on Performance of Euroleague Teams</div>
+    </div>
+  </a>
+
   <a href="/projects/earthquake-analysis" class="project-card">
     <img src="/assets/images/earthquake.jpg" alt="Earthquake Building Analysis">
     <div class="project-content">
@@ -59,11 +66,5 @@ permalink: /projects/
     </div>
   </a>
 
-   <a href="/projects/euroleague-analysis" class="project-card">
-    <img src="/assets/images/euroleague.jpg" alt="Euroleague Analysis">
-    <div class="project-content">
-      <div class="project-title">Data Analysis on Performance of Euroleague Teams</div>
-    </div>
-  </a>
 
 </div>
