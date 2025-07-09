@@ -17,7 +17,7 @@ permalink: /projects/trc-parking/
 
 ## Specimen Production
 
-<div style="display: flex; justify-content: space-between; gap: 40px; margin-top: 30px;">
+<div style="display: flex; justify-content: space-between; gap: 20px; margin-top: 30px;">
 
   <div style="border: 1px solid #ddd; border-radius: 10px; padding: 20px; box-shadow: 2px 2px 10px #eee;">
     <h3>Concrete Matrix Materials:</h3>
