@@ -14,19 +14,31 @@ permalink: /projects/trc-parking/
 
 ## Specimen Production
 
-**Concrete Matrix Materials:**
-- Portland cement (CEM I 42.5 R)
-- Natural sand
-- Polycarboxylate-based plasticizer (Sika Viscocrete Hi-tech 3073)
-- Tap water
+<div style="display: flex; justify-content: space-between; gap: 40px; margin-top: 30px;">
 
-**Reinforcement Details:**
-- Grid-shaped aligned glass fiber bundles with epoxy coating  
-- Density: 2.7 g/cm³  
-- Elastic Modulus: 78 GPa  
-- Tensile Strength: 1.7 GPa  
-- Grid size: 10 mm × 10 mm  
-- Thickness: 3 mm
+  <div style="flex: 1;">
+    <h3>Concrete Matrix Materials:</h3>
+    <ul>
+      <li>Portland cement (CEM I 42.5 R)</li>
+      <li>Natural sand</li>
+      <li>Polycarboxylate-based plasticizer (Sika Viscocrete Hi-tech 3073)</li>
+      <li>Tap water</li>
+    </ul>
+  </div>
+
+  <div style="flex: 1;">
+    <h3>Reinforcement Details:</h3>
+    <ul>
+      <li>Grid-shaped aligned glass fiber bundles with epoxy coating</li>
+      <li>Density: 2.7 g/cm³</li>
+      <li>Elastic Modulus: 78 GPa</li>
+      <li>Tensile Strength: 1.7 GPa</li>
+      <li>Grid size: 10 mm × 10 mm</li>
+      <li>Thickness: 3 mm</li>
+    </ul>
+  </div>
+
+</div>
 
 **Mix Design & Testing:**
 - Flow tests were performed according to ASTM C230/C230M–21 for having correct workability for the placement of reinforcements
