@@ -17,19 +17,19 @@ permalink: /projects/trc-parking/
 
 ## Specimen Production
 
-<div style="display: flex; justify-content: space-between; gap: 20px; margin-top: 30px;">
+<div style="display: flex; justify-content: space-between; gap: 40px; margin-top: 30px;">
 
-  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 20px; box-shadow: 2px 2px 10px #eee;">
+  <div style="flex: 1;">
     <h3>Concrete Matrix Materials:</h3>
     <ul>
-      <li>🧱 Portland cement (CEM I 42.5 R)</li>
-      <li>🏖️ Natural sand</li>
+      <li>Portland cement (CEM I 42.5 R)</li>
+      <li>Natural sand</li>
       <li>Polycarboxylate-based plasticizer (Sika Viscocrete Hi-tech 3073)</li>
-      <li>💧 Tap water</li>
+      <li>Tap water</li>
     </ul>
   </div>
 
-  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 20px; box-shadow: 2px 2px 10px #eee;">
+  <div style="flex: 1;">
     <h3>Reinforcement Details:</h3>
     <ul>
       <li>Grid-shaped aligned glass fiber bundles with epoxy coating</li>
@@ -42,6 +42,7 @@ permalink: /projects/trc-parking/
   </div>
 
 </div>
+
 
 **Mix Design & Testing:**
 - Flow tests were performed according to ASTM C230/C230M–21 for having correct workability for the placement of reinforcements
