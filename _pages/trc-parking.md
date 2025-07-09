@@ -247,7 +247,7 @@ The structural analysis followed the TS 487 Design Code, considering the followi
   <li>0° orientation selected for the middle part</li>
   <li>Double 0° reinforcement used for the upper part</li>
 </ul>
-<img src="section-leg.png" alt="Leg Reinforcement Section" width="450px" style="margin-top: 10px;">
+<img src="/assets/images/section-leg.png" alt="Leg Reinforcement Section" width="450px" style="margin-top: 10px;">
 </div>
 
 <div style="flex: 1;">
@@ -255,7 +255,7 @@ The structural analysis followed the TS 487 Design Code, considering the followi
 <ul>
   <li>45° orientation selected to reduce catastrophic failure by improving crack resistance</li>
 </ul>
-<img src="hexagon-slab.png" alt="Hexagon Slab Reinforcement" width="450px" style="margin-top: 10px;">
+<img src="/assets/images/hexagon-slab.png" alt="Hexagon Slab Reinforcement" width="450px" style="margin-top: 10px;">
 </div>
 
 </div>
