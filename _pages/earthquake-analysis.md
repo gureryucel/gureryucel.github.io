@@ -6,7 +6,7 @@ permalink: /projects/earthquake-analysis/
 
 ## Earthquake Analysis of 3 Storey Reinforced Concrete Building
 
-🔗 [View on GitHub](https://github.com)
+# THIS PAGE IS NOW UNDER CONSTRUCTION! PLEASE CHECK LATER.
 
 - Earthquake analysis of a building by applying different models as equivalent seismic load, modal superposition, and linear time history.
 - Static pushover curves and non-linear time histories are generated for the Structural Dynamics (CE 559) course.
