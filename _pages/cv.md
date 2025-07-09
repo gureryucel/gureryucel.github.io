@@ -68,27 +68,22 @@ redirect_from:
   * Şişecam Glass Packaging Design Team
   * Duties included: Stress analysis, failure investigations, data analysis, and design recommendations 
   
-Mechanical Engineering (Production) Intern
 ### 📐⚙️ Mechanical Engineering (Production) Intern
-* Sept 2022 - Sept 2023: **Şişecam**, İstanbul, Türkiye
-  * Şişecam Glass Packaging Design Team
-  * Duties included: Stress analysis, failure investigations, data analysis, and design recommendations 
+* Aug 2022 – Sep 2022: **Şişecam**, Kırklareli, Türkiye
+  * Şişecam First Step Internship Program - Flat Glass Glass Kırklareli Factory
+  * Duties included: Production cycle control, quality control, and reporting
+ 
+### 🛠️🏗️ Civil Engineering Intern
+* Jun 2022 – Jul 2022: **İstanbul Metropolitan Municipality**, İstanbul, Türkiye
+  * Haliç Science Center Restoration Project
+  * Duties included: Control of restoration, allowance control, and reporting 
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+### 🛠️🏗️ Civil Engineering Intern
+* Sep 2021 – Oct 2021: **ZETAS Foundation Tech**, Mersin, Türkiye
+  * Akkuyu Nuclear Power Plant Construction Project
+  * Duties included: Control of pool construction, quality control, and reporting 
 
 ---
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -96,18 +91,30 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+---
   
-Teaching
+Skills
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Particle-based simulations
+  * Molecular dynamics
+    * GROMACS, Python
+* Continuum modeling
+  * Finite Elements Modeling
+    * ANSYS, Abaqus, ETABS
+* Programming
+  * Python, C, MATLAB, Julia
+* Computer-Aided Design
+  * AutoCAD
+  * Autodesk Fusion
+  * CATIA
+  * VMD
+* OS
+  * Windows
+  * Ubuntu
+
+---
   
-Service and leadership
+Other Employment & Voluntary Work
 ======
-* Currently signed in to 43 different slack teams
+* Participated in intensive seasonal hazelnut harvesting on steep hillside farms in the Ordu region. Both voluntarily and paid work for full days collecting nuts manually by bending branches and gathering from trees.
+* Provided mathematics, physics, and chemistry lessons for high school students preparing for university entrance exams.
