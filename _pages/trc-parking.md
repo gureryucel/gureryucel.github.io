@@ -213,6 +213,44 @@ The structural analysis followed the TS 487 Design Code, considering the followi
 
 </div>
 
+## Strain and Crack Check
+
+- Maximum Principal and Normal Strains have been checked  
+- Strains are in the Elastic Range for both used configurations
+
+---
+
+## Buckling Control
+
+- Eigenvalue Buckling Analysis was performed  
+- 4 Buckling Modes were investigated  
+
+<div style="display: flex; justify-content: space-between; gap: 10px; margin-top: 10px; margin-bottom: 20px;">
+  <img src="mode1.png" alt="Buckling Mode 1" width="300px">
+  <img src="mode2.png" alt="Buckling Mode 2" width="300px">
+  <img src="mode3.png" alt="Buckling Mode 3" width="300px">
+  <img src="mode4.png" alt="Buckling Mode 4" width="300px">
+</div>
+
+- Buckling is safe for the applied loading conditions
+
+---
+
+## Design of Parts of Parking Building
+
+- **Legs**  
+  - Novel configuration selected for lower part  
+  - 0° orientation selected for the middle part  
+  - Double 0° reinforcement used for the upper part  
+
+  <img src="section-leg.png" alt="Leg Reinforcement Section" width="450px" style="margin-top: 10px; margin-bottom: 20px;">
+
+- **Hexagon Slab**  
+  - 45° orientation selected to reduce catastrophic failure by improving crack resistance
+
+  <img src="hexagon-slab.png" alt="Hexagon Slab Reinforcement" width="450px" style="margin-top: 10px; margin-bottom: 20px;">
+
+
 > This design highlights a **sustainable solution** for concrete-based applications using textile reinforcement technology.
 
 ---
