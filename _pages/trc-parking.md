@@ -4,7 +4,6 @@ title: Design of Textile Reinforced Concrete Parking Station
 permalink: /projects/trc-parking/
 ---
 
-<div style="max-width: 1000px; margin: 0 auto; padding: 30px;">
   
 # Design of Textile Reinforced Concrete Parking Station
 
@@ -219,4 +218,4 @@ The structural analysis followed the TS 487 Design Code, considering the followi
 
 **Tools Used:** Composite production · Flexural testing · ANSYS Mechanical · SpaceClaim · MATLAB
 
-</div>
+
