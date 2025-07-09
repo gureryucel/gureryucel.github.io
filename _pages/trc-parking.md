@@ -4,6 +4,8 @@ title: Design of Textile Reinforced Concrete Parking Station
 permalink: /projects/trc-parking/
 ---
 
+<div style="max-width: 1000px; margin: 0 auto; padding: 30px;">
+  
 # Design of Textile Reinforced Concrete Parking Station
 
 ## Project Aims and Motivation
@@ -12,21 +14,23 @@ permalink: /projects/trc-parking/
 - Comparing flexural behavior with conventional TRC designs
 - Designing a concrete parking station consisting of TRC materials, targeting building applications and promoting sustainability
 
+<hr style="border: 1px solid #ccc; margin: 40px 0;">
+
 ## Specimen Production
 
 <div style="display: flex; justify-content: space-between; gap: 40px; margin-top: 30px;">
 
-  <div style="flex: 1;">
+  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 20px; box-shadow: 2px 2px 10px #eee;">
     <h3>Concrete Matrix Materials:</h3>
     <ul>
-      <li>Portland cement (CEM I 42.5 R)</li>
-      <li>Natural sand</li>
+      <li>🧱 Portland cement (CEM I 42.5 R)</li>
+      <li>🏖️ Natural sand</li>
       <li>Polycarboxylate-based plasticizer (Sika Viscocrete Hi-tech 3073)</li>
-      <li>Tap water</li>
+      <li>💧 Tap water</li>
     </ul>
   </div>
 
-  <div style="flex: 1;">
+  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 20px; box-shadow: 2px 2px 10px #eee;">
     <h3>Reinforcement Details:</h3>
     <ul>
       <li>Grid-shaped aligned glass fiber bundles with epoxy coating</li>
@@ -76,6 +80,8 @@ permalink: /projects/trc-parking/
   <p><em>Produced TRC specimens with different reinforcement configurations</em></p>
 </div>
 
+<hr style="border: 1px solid #ccc; margin: 40px 0;">
+
 ## Test Setup
 
 - Three-point bending tests were performed using an MTS closed-loop servo-hydraulic testing machine.
@@ -90,6 +96,8 @@ permalink: /projects/trc-parking/
   <img src="/assets/images/test.jpg" alt="Flexure test setup" style="width: 450px;">
   <p><em>Flexure test performed on textile-reinforced specimen</em></p>
 </div>
+
+<hr style="border: 1px solid #ccc; margin: 40px 0;">
 
 ## Test Results
 
@@ -150,6 +158,7 @@ The flexural performance of various textile reinforcement configurations was eva
 
 ---
 
+<hr style="border: 1px solid #ccc; margin: 40px 0;">
 
 ## Design of Concrete Parking Station
 
@@ -209,3 +218,5 @@ The structural analysis followed the TS 487 Design Code, considering the followi
 ---
 
 **Tools Used:** Composite production · Flexural testing · ANSYS Mechanical · SpaceClaim · MATLAB
+
+</div>
