@@ -61,6 +61,14 @@ redirect_from:
  
   ---
 
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+---  
+
 ## Work Experience
 ======
 ### 🖥️📐⚙️ Structural Analysis Engineer
@@ -85,13 +93,6 @@ redirect_from:
 
 ---
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
----
   
 Skills
 ======
