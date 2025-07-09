@@ -38,13 +38,6 @@ permalink: /projects/
 
 <div class="project-grid">
 
-  <a href="/projects/euroleague-analysis" class="project-card">
-    <img src="/assets/images/euroleague.jpg" alt="Euroleague Analysis">
-    <div class="project-content">
-      <div class="project-title">Data Analysis on Performance of Euroleague Teams</div>
-    </div>
-  </a>
-
   <a href="/projects/block-copolymers" class="project-card">
     <img src="/assets/images/copolymers.jpg" alt="Block-Co-Polymers">
     <div class="project-content">
@@ -63,6 +56,13 @@ permalink: /projects/
     <img src="/assets/images/earthquake.jpg" alt="Earthquake Building Analysis">
     <div class="project-content">
       <div class="project-title">Earthquake Analysis of 3 Storey Reinforced Concrete Building</div>
+    </div>
+  </a>
+
+   <a href="/projects/euroleague-analysis" class="project-card">
+    <img src="/assets/images/euroleague.jpg" alt="Euroleague Analysis">
+    <div class="project-content">
+      <div class="project-title">Data Analysis on Performance of Euroleague Teams</div>
     </div>
   </a>
 
