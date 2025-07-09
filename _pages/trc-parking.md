@@ -74,6 +74,11 @@ permalink: /projects/trc-parking/
   - Span length: 27 cm
 - Testing was displacement-controlled at a rate of **2 mm/min**.
 
+<div style="text-align: center;">
+  <img src="/assets/images/test.jpg" alt="Flexure test setup" style="width: 450px;">
+  <p><em>Flexure test performed on textile-reinforced specimen</em></p>
+</div>
+
 ## Test Results
 
 The flexural performance of various textile reinforcement configurations was evaluated based on their stress–strain responses. The graph and mechanical properties are presented below.
@@ -111,20 +116,16 @@ The flexural performance of various textile reinforcement configurations was eva
 ## Discussion
 
 - The **0/90° grid configuration** exhibited clear multi-stage behavior:
-  - Initial elastic region up to the first peak stress.
-  - A subsequent hardening region leading to ultimate failure.
-- Following the ultimate stress, specimens experienced a **sharp stress drop**, indicative of multiple crack propagations.
+  - Initial elastic and subsequent hardening regions.
+- Following the ultimate stress, specimens experienced a sharp stress drop which indicates the multiple crack propagations.
 - **Off-axis grid reinforcements** (30° and 45°):
-  - Showed no significant hardening behavior.
-  - Exhibited behavior akin to **ideal plasticity** after the elastic limit.
+  - Showed no significant hardening behavior, and presented behavior similar to ideal plasticity after the elastic limit.
 - These off-axis configurations had **higher ultimate strains**, attributed to:
   - Textile pull-out.
   - Fabric rotation/scissoring effect.
 - A **critical threshold angle** appears to exist above which material hardening is significantly reduced.
-- Only textile alignments **near the flexural direction** showed progressive material hardening, with no gradual transition observed between grid angles.
-
-
-- The **TT-X configuration**—which includes **through-thickness 45°-inclined reinforcements**—demonstrated **superior mechanical behavior** over the standard 0° grid:
+- Only textile alignments near the flexural direction showed progressive material hardening, with no gradual transition observed between grid angles.
+- The **TT-X configuration** demonstrated superior mechanical behavior over the standard 0° grid:
   - A **17% increase in ultimate stress**.
   - A **35% improvement in tangent modulus** of the hardening region.
 - These **out-of-plane reinforcements** enhanced shear resistance and crack control:
@@ -133,22 +134,63 @@ The flexural performance of various textile reinforcement configurations was eva
 - The cumulative effects led to:
   - **Enhanced post-crack hardening**.
   - **Improved toughness** and structural reliability of the cement-based composite.
-- These benefits are expected to be even **more pronounced in thicker specimens with shorter span lengths**, where shear effects are dominant.
-
----
-
-**Tools Used:** Composite production · Flexural testing · ANSYS Mechanical · SpaceClaim · MATLAB
-
+- These benefits are expected to be even more prominent in thicker specimens with shorter span lengths, where shear effects are dominant.
 
 ---
 
 
 ## Design of Concrete Parking Station
 
-- Structural design included multiple load cases representing a small car
-- A parking station was designed using the novel inclined TRC material
-- Structural modeling was performed in **ANSYS Mechanical** and geometry prepared in **SpaceClaim**
-- Final design featured **2 cm thick walls**, significantly reducing concrete usage
+The building plan is designed for accommodating a single vehicle. The geometric properties and structural components are illustrated below:
+
+<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+
+  <img src="/assets/images/geometry1.png" alt="Geometry 1" style="width: 300px;">
+  <img src="/assets/images/geometry2.png" alt="Geometry 2" style="width: 300px;">
+  <img src="/assets/images/geometry3.png" alt="Geometry 3" style="width: 300px;">
+  <img src="/assets/images/geometry4.png" alt="Geometry 4" style="width: 300px;">
+
+</div>
+<p style="text-align: center;"><em>Figure: Structural layout and geometry of the parking station</em></p>
+
+---
+
+## Mesh Study
+
+Mesh optimization was conducted to ensure modeling accuracy and computational efficiency. The properties of the mesh are summarized below:
+
+- Element Size: 22 mm  
+- Element Type: Shell Element  
+- Element Geometry: Quadratic  
+- Symmetric Meshing at the Legs of the Structure
+
+<div style="text-align: center;">
+  <img src="/assets/images/mesh2.png" alt="Mesh visualization of the structure" style="width: 450px;">
+  <p><em>Mesh configuration applied to the concrete parking station</em></p>
+</div>
+
+---
+
+## Critical Loads and Stress Distribution
+
+The structural analysis followed the TS 487 Design Code, considering the following load combination:
+
+- Critical Load Combination: **1.2D + 1.6L + 0.8W**
+- Uniform Thickness of Structural Elements: **64 mm**
+
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+
+  <div style="flex: 0 0 450px;">
+    <img src="/assets/images/load-result.png" alt="Max principal stress vs thickness" style="width: 100%;">
+    <p style="text-align: center;"><em>Maximum principal stress vs. thickness under 1.2D + 1.6L + 0.5S</em></p>
+  </div>
+
+  <div style="flex: 0 0 450px;">
+    <img src="/assets/images/max-principal2.png" alt="Stress distribution on structure" style="width: 100%;">
+    <p style="text-align: center;"><em>Maximum principal stress distribution highlighting critical regions</em></p>
+  </div>
+
+</div>
 
 > This design highlights a **sustainable solution** for concrete-based applications using textile reinforcement technology.
 
