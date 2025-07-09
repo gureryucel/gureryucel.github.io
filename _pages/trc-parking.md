@@ -238,17 +238,28 @@ The structural analysis followed the TS 487 Design Code, considering the followi
 
 ## Design of Parts of Parking Building
 
-- **Legs**  
-  - Novel configuration selected for lower part  
-  - 0° orientation selected for the middle part  
-  - Double 0° reinforcement used for the upper part  
+<div style="display: flex; justify-content: space-between; gap: 20px;">
 
-  <img src="/assets/images/section-leg.png" alt="Leg Reinforcement Section" width="450px" style="margin-top: 10px; margin-bottom: 20px;">
+<div style="flex: 1;">
+<h4>Legs</h4>
+<ul>
+  <li>Novel configuration selected for lower part</li>
+  <li>0° orientation selected for the middle part</li>
+  <li>Double 0° reinforcement used for the upper part</li>
+</ul>
+<img src="section-leg.png" alt="Leg Reinforcement Section" width="450px" style="margin-top: 10px;">
+</div>
 
-- **Hexagon Slab**  
-  - 45° orientation selected to reduce catastrophic failure by improving crack resistance
+<div style="flex: 1;">
+<h4>Hexagon Slab</h4>
+<ul>
+  <li>45° orientation selected to reduce catastrophic failure by improving crack resistance</li>
+</ul>
+<img src="hexagon-slab.png" alt="Hexagon Slab Reinforcement" width="450px" style="margin-top: 10px;">
+</div>
 
-  <img src="/assets/images/hexagon-slab.png" alt="Hexagon Slab Reinforcement" width="450px" style="margin-top: 10px; margin-bottom: 20px;">
+</div>
+
 
 
 > This design highlights a **sustainable solution** for concrete-based applications using textile reinforcement technology.
